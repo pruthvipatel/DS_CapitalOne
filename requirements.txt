@@ -2,12 +2,15 @@ appnope==0.1.4
 asttokens==2.4.1
 comm==0.2.2
 contourpy==1.2.1
+cramjam==2.8.3
 cycler==0.12.1
 debugpy==1.8.1
 decorator==5.1.1
 exceptiongroup==1.2.1
 executing==2.0.1
+fastparquet==2024.5.0
 fonttools==4.52.4
+fsspec==2024.5.0
 ipykernel==6.29.4
 ipython==8.24.0
 jedi==0.19.1
@@ -29,6 +32,7 @@ prompt_toolkit==3.0.45
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pyarrow==16.1.0
 Pygments==2.18.0
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
